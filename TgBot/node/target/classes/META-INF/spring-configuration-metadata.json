@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "integration.weather",
+      "type": "hell.prod.properties.WeatherIntegrationProperties",
+      "sourceType": "hell.prod.properties.WeatherIntegrationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

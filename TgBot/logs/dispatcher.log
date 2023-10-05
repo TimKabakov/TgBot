@@ -1,0 +1,251 @@
+2022-12-20 17:15:13 DEBUG TelegramBot:34 - Hello 2
+2022-12-20 17:19:56 DEBUG TelegramBot:36 - Hello 3
+2022-12-20 17:25:31 DEBUG TelegramBot:37 - Hello
+2022-12-20 17:25:31 ERROR TelegramBot:51 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2022-12-20 22:13:00 DEBUG UpdateProducerImpl:13 - Ntcn
+2022-12-20 22:13:14 DEBUG UpdateProducerImpl:13 - 
+2022-12-21 19:35:31 DEBUG UpdateProducerImpl:21 - Привет
+2022-12-21 19:40:51 DEBUG UpdateProducerImpl:21 - Hello
+2022-12-21 19:45:25 DEBUG UpdateProducerImpl:21 - gyu
+2022-12-21 20:11:20 DEBUG UpdateProducerImpl:21 - Hello
+2022-12-21 20:11:42 DEBUG UpdateProducerImpl:21 - Well
+2022-12-21 20:16:10 DEBUG UpdateProducerImpl:21 - Hello
+2022-12-21 20:16:50 DEBUG UpdateProducerImpl:21 - Hello
+2022-12-21 20:17:01 DEBUG UpdateProducerImpl:21 - hello
+2022-12-21 20:18:04 DEBUG UpdateProducerImpl:21 - Fuck
+2022-12-21 20:18:08 DEBUG UpdateProducerImpl:21 - Hello
+2022-12-21 20:18:22 DEBUG UpdateProducerImpl:21 - Fuck
+2022-12-21 20:19:02 DEBUG UpdateProducerImpl:21 - Hello
+2022-12-21 20:19:30 DEBUG UpdateProducerImpl:21 - Sorry
+2022-12-21 20:19:34 DEBUG UpdateProducerImpl:21 - Fuck
+2022-12-21 20:20:54 DEBUG UpdateProducerImpl:21 - Sorry
+2022-12-21 20:21:10 DEBUG UpdateProducerImpl:21 - Df
+2022-12-21 21:30:54 DEBUG UpdateProducerImpl:21 - hello
+2022-12-21 21:31:57 DEBUG UpdateProducerImpl:21 - hello
+2022-12-21 21:32:06 DEBUG UpdateProducerImpl:21 - fuck
+2022-12-21 21:32:09 DEBUG UpdateProducerImpl:21 - dff
+2022-12-22 15:06:44 DEBUG UpdateProducerImpl:21 - Hello
+2022-12-22 15:06:54 DEBUG UpdateProducerImpl:21 - Fuck
+2022-12-22 15:09:55 DEBUG UpdateProducerImpl:21 - Hell
+2023-04-24 18:26:35 DEBUG UpdateProducerImpl:21 - London
+2023-04-24 19:46:15 DEBUG UpdateProducerImpl:21 - Set
+2023-04-24 19:48:32 DEBUG UpdateProducerImpl:21 - er
+2023-04-24 20:24:59 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 3
+2023-04-24 20:25:30 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:25:30 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:25:30 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:31 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:32 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:25:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 3
+2023-04-24 20:26:01 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:01 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:01 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:01 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:01 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:02 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:11 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 3
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:33 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:34 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:35 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:26:44 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 3
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 13
+2023-04-24 20:27:04 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:05 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 12
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:06 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:07 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:08 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:17 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 3
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 11
+2023-04-24 20:27:39 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 10
+2023-04-24 20:27:40 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:41 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 9
+2023-04-24 20:27:50 ERROR TelegramBot:57 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [429] Too Many Requests: retry after 3
+2023-06-08 11:24:58 DEBUG UpdateProducerImpl:21 - /start
+2023-06-08 11:25:05 DEBUG UpdateProducerImpl:21 - Привет
+2023-06-08 11:25:12 DEBUG UpdateProducerImpl:21 - Работает
+2023-08-14 14:21:55 DEBUG UpdateProducerImpl:21 - london
+2023-08-14 15:53:10 DEBUG UpdateProducerImpl:21 - Moscow
+2023-08-14 15:58:01 DEBUG UpdateProducerImpl:21 - moscow
+2023-08-14 16:10:13 DEBUG UpdateProducerImpl:21 - Moscow
+2023-08-14 16:34:12 DEBUG UpdateProducerImpl:21 - London
+2023-08-14 16:34:18 DEBUG UpdateProducerImpl:21 - Hell
+2023-08-14 16:36:05 DEBUG UpdateProducerImpl:21 - Log
+2023-08-14 16:37:34 DEBUG UpdateProducerImpl:21 - Moscow
+2023-08-14 16:40:36 DEBUG UpdateProducerImpl:21 - Moscow
+2023-08-14 16:52:58 DEBUG UpdateProducerImpl:21 - moscow
+2023-08-14 17:00:44 DEBUG UpdateProducerImpl:21 - moscow
+2023-08-14 17:04:30 DEBUG UpdateProducerImpl:21 - moscow
+2023-08-14 17:07:12 DEBUG UpdateProducerImpl:21 - london
+2023-08-14 17:10:36 DEBUG UpdateProducerImpl:21 - paris
+2023-08-14 17:17:10 DEBUG UpdateProducerImpl:21 - paris
+2023-08-14 17:17:48 DEBUG UpdateProducerImpl:21 - Istanbul
+2023-08-14 17:17:56 DEBUG UpdateProducerImpl:21 - moscow
+2023-08-14 17:18:01 DEBUG UpdateProducerImpl:21 - london
+2023-08-14 17:20:41 DEBUG UpdateProducerImpl:21 - london
+2023-08-14 17:33:06 DEBUG UpdateProducerImpl:21 - moscow
+2023-08-14 17:33:17 DEBUG UpdateProducerImpl:21 - paris
+2023-08-14 17:33:22 DEBUG UpdateProducerImpl:21 - istanbul
+2023-08-16 16:54:48 DEBUG UpdateProducerImpl:21 - Istanbul
+2023-08-16 21:18:24 DEBUG UpdateProducerImpl:21 - Tallinn
+2023-08-16 21:46:03 DEBUG UpdateProducerImpl:21 - Moscow
+2023-08-16 21:46:18 DEBUG UpdateProducerImpl:21 - London
+2023-08-16 21:46:26 DEBUG UpdateProducerImpl:21 - Istanbul
+2023-08-16 21:46:32 DEBUG UpdateProducerImpl:21 - Paris
+2023-08-16 21:55:40 DEBUG UpdateProducerImpl:21 - Tallinn
+2023-08-16 21:56:07 DEBUG UpdateProducerImpl:21 - Moscow
+2023-09-26 18:09:00 DEBUG UpdateProducerImpl:21 - Moscow
+2023-09-26 19:39:12 DEBUG UpdateProducerImpl:21 - moscow
+2023-09-26 19:41:39 DEBUG UpdateProducerImpl:21 - Istanbul
+2023-09-26 19:44:49 DEBUG UpdateProducerImpl:21 - Moscow
+2023-09-26 19:47:27 DEBUG UpdateProducerImpl:21 - Moscow
+2023-09-26 19:54:59 DEBUG UpdateProducerImpl:21 - Moscow
+2023-09-27 17:06:33 DEBUG UpdateProducerImpl:21 - Moscow

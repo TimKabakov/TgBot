@@ -1,0 +1,6 @@
+ map:
+      name: citiesMap
+      max-size: 100
+      eviction-policy: LRU
+      eviction-percentage: 10
+      time-to-live-seconds: 900

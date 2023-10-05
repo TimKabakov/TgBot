@@ -1,0 +1,9 @@
+
+integrations:
+  weather:
+    connect-timeout: 1000
+    read-timeout: 1000
+    write-timeout: 1000
+  api:
+    key: a4a770e704b1483aa3394258230403
+
