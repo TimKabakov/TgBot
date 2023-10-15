@@ -5,33 +5,33 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j;
 import org.json.JSONArray;
 import org.json.JSONObject;
-
-import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.stereotype.Component;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
+
+import java.time.LocalDateTime;
 
 
 @Log4j
 @Service
 @RequiredArgsConstructor
 public class WeatherIntegration {
+
     private final WebClient webClient;
     private final String key = "a4a770e704b1483aa3394258230403";
 
 
 
     public City getWeather(String name){
-        City city = new City();
-        String uri = ("http://api.weatherapi.com/v1/forecast.json?key="+ key +"&q="+ name +"&days=2&aqi=no&alerts=no");
+        String uri = ("https://api.weatherapi.com/v1/forecast.json?key="+ key +"&q="+ name +"&days=2&aqi=no&alerts=no");
         log.debug(uri);
         JSONObject weatherInfo = new JSONObject(webClient.get().uri(uri).retrieve().bodyToMono(String.class).block());
         log.debug(weatherInfo.toString());
-        city = converter(weatherInfo);
+         City city = converter(weatherInfo);
         return city;
     }
     public String getInfo(String name){
-        String uri = ("http://api.weatherapi.com/v1/forecast.json?key="+ key +"&q="+ name +"&days=2&aqi=no&alerts=no");
+        String uri = ("https://api.weatherapi.com/v1/forecast.json?key="+ key +"&q="+ name +"&days=2&aqi=no&alerts=no");
         log.debug(uri);
         JSONObject weatherInfo = new JSONObject(webClient.get().uri(uri).retrieve().bodyToMono(String.class).block());
         log.debug(weatherInfo.toString());
@@ -50,6 +50,7 @@ public class WeatherIntegration {
         weatherInCity.setWindDir(current.getString("wind_dir"));
         weatherInCity.setWindSpeed(current.getDouble("wind_kph"));
         JSONObject condition = current.getJSONObject("condition");
+        weatherInCity.setIcon(condition.getString("icon"));
         weatherInCity.setCondition(condition.getString("text"));
         weatherInCity.setPressure(current.getDouble("pressure_mb"));
         JSONObject forecast = weatherInfo.getJSONObject("forecast");
@@ -70,6 +71,7 @@ public class WeatherIntegration {
         weatherInCity.setConditionForecast(conditionForNextDay.getString("text"));
         weatherInCity.setWindSpeedForecast(day.getDouble("maxwind_kph"));
         weatherInCity.setUvForecast(day.getDouble("uv"));
+        weatherInCity.setLocalDateTime(LocalDateTime.now());
         return weatherInCity;
     }
 

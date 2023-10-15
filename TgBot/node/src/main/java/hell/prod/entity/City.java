@@ -3,6 +3,7 @@ package hell.prod.entity;
 import lombok.*;
 
 import java.io.Serializable;
+import java.time.LocalDateTime;
 
 @Getter
 @Setter
@@ -30,6 +31,8 @@ public class City implements Serializable {
     Double pressure;
     Double uv;
     Double uvForecast;
+    LocalDateTime localDateTime;
+    String icon;
 
 
     @Override
@@ -38,8 +41,9 @@ public class City implements Serializable {
                 ", current weather: " + weatherCurrent +
                 ", feels like " + weatherCurrentFeels +
                 ", wind " + windSpeed +
+                " kph" +
                 ", wind direction " + windDir +
-                ", conditions " + condition +
+                ", conditions " + condition + icon +
                 ", pressure " + pressure +
                 ", uv " + uv + ". \n" +
                 "Forecast for " + forecastDate +

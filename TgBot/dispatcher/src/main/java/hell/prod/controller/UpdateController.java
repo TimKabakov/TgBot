@@ -6,6 +6,7 @@ import hell.prod.utils.MessageUtils;
 import lombok.extern.log4j.Log4j;
 import org.springframework.stereotype.Component;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
+import org.telegram.telegrambots.meta.api.objects.Message;
 import org.telegram.telegrambots.meta.api.objects.Update;
 
 import static hell.prod.model.RabbitQueue.*;
@@ -35,12 +36,12 @@ public class UpdateController {
         if (update.hasMessage()){
             distributeMessageByType(update);
         } else
-            log.error("Unsupported message type is received: ");
+            log.error("Unsupported message type is received");
 
     }
 
     private void distributeMessageByType(Update update) {
-        var message = update.getMessage();
+        Message message = update.getMessage();
         if (message.hasText()){
             processTextMessage(update);
         } else
@@ -48,7 +49,7 @@ public class UpdateController {
     }
 
     private void setUnsupportedMessageTypeView(Update update) {
-        var sendMessage = messageUtils.generateSendMessageWithText(update,
+        SendMessage sendMessage = messageUtils.generateSendMessageWithText(update,
                 "Неподдерживаемый тип сообщения.");
         setView(sendMessage);
     }
