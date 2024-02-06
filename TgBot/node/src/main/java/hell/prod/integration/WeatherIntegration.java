@@ -5,9 +5,9 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
+
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 
@@ -32,16 +32,7 @@ public class WeatherIntegration {
         log.debug(uri);
         JSONObject weatherInfo = new JSONObject(webClient.get().uri(uri).retrieve().bodyToMono(String.class).block());
         log.debug(weatherInfo.toString());
-         City city = converter(weatherInfo);
-        return city;
-    }
-    public String getInfo(String name){
-        String uri = ("https://api.weatherapi.com/v1/forecast.json?key="+ key +"&q="+ name +"&days=2&aqi=no&alerts=no");
-        log.debug(uri);
-        JSONObject weatherInfo = new JSONObject(webClient.get().uri(uri).retrieve().bodyToMono(String.class).block());
-        log.debug(weatherInfo.toString());
-        City city = converter(weatherInfo);
-        return city.toString();
+        return converter(weatherInfo);
     }
 
     private City converter(JSONObject weatherInfo) {
