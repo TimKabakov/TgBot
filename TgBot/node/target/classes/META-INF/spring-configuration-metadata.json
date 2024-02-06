@@ -1,6 +1,11 @@
 {
   "groups": [
     {
+      "name": "integration.api",
+      "type": "hell.prod.integration.WeatherIntegration",
+      "sourceType": "hell.prod.integration.WeatherIntegration"
+    },
+    {
       "name": "integration.weather",
       "type": "hell.prod.properties.WeatherIntegrationProperties",
       "sourceType": "hell.prod.properties.WeatherIntegrationProperties"

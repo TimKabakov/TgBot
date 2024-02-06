@@ -6,6 +6,8 @@ import lombok.extern.log4j.Log4j;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 
@@ -17,8 +19,11 @@ import java.time.LocalDateTime;
 @RequiredArgsConstructor
 public class WeatherIntegration {
 
+
     private final WebClient webClient;
-    private final String key = "a4a770e704b1483aa3394258230403";
+    @Value("${weather.api}")
+    private String key;
+
 
 
 

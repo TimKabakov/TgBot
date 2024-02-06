@@ -32,8 +32,8 @@ import java.time.LocalDateTime;
 public class MainServiceImpl implements MainService {
 
     private final ProducerServiceImpl producerService;
-
-    WeatherIntegration weatherIntegration = new WeatherIntegration(WebClient.builder().build());
+    @Autowired
+    WeatherIntegration weatherIntegration;
 
     @Autowired
     private final HazelcastInstance hazelcastInstance;
